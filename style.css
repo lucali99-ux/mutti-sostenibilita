@@ -74,7 +74,7 @@ body {
 
 /*HERO*/
 .hero {
-  background-image: url(/images/webp_img/pomodori_background_3.webp); /* Sostituisci con la tua immagine */
+  background-image: url(images/webp_img/pomodori_background_3.webp); /* Sostituisci con la tua immagine */
   background-size: cover;
   background-position: center;
   height: 60vh;
@@ -264,19 +264,7 @@ footer {
     padding: 40px 6%;
   }
 }
-/*
-.sustainability{
-  background-color: var(--rosso-light);
-}
 
-.reports{
-  background-color: var(--crema);
-}
-
-.closing-section{
-  background-color: var(--rosso-light);
-}
-*/
 section {
   padding: 70px 12%;
   box-shadow: 0 2px 10px rgba(0,0,0,0.05);
